@@ -11,4 +11,4 @@ Note: If you ever find any issues in any of the files here, feel free to report 
 Important Links: 
 YouTube Channel: https://youtube.com/c/codingwithshawn/  
 Facebook Page: https://www.facebook.com/codingwithshawn/  
-Official Website: https://cutt.ly/codingwithshawnoffical/ (If that link doesn't work, use this one: https://bit.ly/codingwithshawn)  
+Official Website: https://cutt.ly/codingwithshawnofficial/ (If that link doesn't work, use this one: https://bit.ly/codingwithshawn)  
