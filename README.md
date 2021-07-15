@@ -8,7 +8,7 @@ All the files I use or have used in my videos are available in this repository.
 
 Note: If you ever find any issues in any of the files here, feel free to report them using the issues tab or by [clicking here.](https://github.com/codingwithshawn/codingwithshawnyt/issues)
 
-Important Links: 
+Important Links:  
 YouTube Channel: https://youtube.com/c/codingwithshawn/  
 Facebook Page: https://www.facebook.com/codingwithshawn/  
 Official Website: https://cutt.ly/codingwithshawnofficial/ (If that link doesn't work, use this one: https://bit.ly/codingwithshawn)  
