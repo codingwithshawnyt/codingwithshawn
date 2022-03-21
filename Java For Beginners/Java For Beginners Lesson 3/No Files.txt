@@ -1,0 +1,39 @@
+There are no files associated with this video.
+Video link: https://www.youtube.com/watch?v=IKh10UuLCYg
+Description: 
+Hello judicious coders! In this video, we learn about Java comments and how to write and name variables in Java. We also do basic data types. I hope this video is enjoyable and educational for you, please consider liking and subscribing. Thanks for watching, and I hope to see you in another video!
+If you haven't watched Lesson 1 or 2 yet, do that now!
+Java For Beginners (Lesson 1): https://www.youtube.com/watch?v=XKF-7HFtN1U
+Java For Beginners (Lesson 2): https://www.youtube.com/watch?v=kYnw1WUkgQM
+------------------------------------------------------------------------------------------------------------------------------------------------
+MY WEBSITE: https://cutt.ly/codingwithshawnofficial
+Please like & Subscribe for more content: https://www.youtube.com/channel/UCz6Z8rXMgHNh9OYee-wlTyQ?sub_confirmation=1
+------------------------------------------------------------------------------------------------------------------------------------------------
+Data Science and Machine Learning:
+https://www.youtube.com/playlist?list=PLI4REsOcDOjJoWgu2TTD1FX7y7PWISg5d
+Installation Tutorials:
+https://www.youtube.com/playlist?list=PLI4REsOcDOjJZi3ra9Lf23HOfDYVTNYKx
+Special Editions:
+https://www.youtube.com/playlist?list=PLI4REsOcDOjICA5TOK3qfaxj1uKEjk5mH
+Coding With Shawn (All Videos):
+https://www.youtube.com/playlist?list=PLI4REsOcDOjKpItFYqFahVHVoN61NHEeA
+Python For Beginners:
+https://www.youtube.com/playlist?list=PLI4REsOcDOjLqfXk8Qc1-cW4KVjtuVqeN
+------------------------------------------------------------------------------------------------------------------------------------------------
+Python For Beginners (Lesson 1): https://www.youtube.com/watch?v=FCWS-iTmWMo
+Python For Beginners (Lesson 2): https://www.youtube.com/watch?v=4MJraLV3-2g
+Python For Beginners (Lesson 3): https://www.youtube.com/watch?v=3t55ntE7NkY
+Why Should You Learn Python?: https://www.youtube.com/watch?v=H2Ebou4iMGo
+How To Install Python: https://www.youtube.com/watch?v=wYZNWm8bjbA
+How To Install Jupyter Notebook: https://www.youtube.com/watch?v=Vp1RLUu-g44
+How To Install NumPy, PANDAS, and Matplotlib
+
+Sections:
+0:00 Introduction
+2:40 Comments (Single-Line)
+5:55 Comments (Multi-Line)
+9:21 Variables
+10:20 Variables (Data Types Intro)
+19:48 Displaying Variables
+27:31 Identifiers
+30:48 Outro

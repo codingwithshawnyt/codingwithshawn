@@ -1,0 +1,35 @@
+There are no files associated with this video.
+Video link: https://www.youtube.com/watch?v=kYnw1WUkgQM
+Description: 
+Hello judicious coders! In this video, we install our Java IDE (IntelliJ IDEA) and write our first Java program. I hope this video is enjoyable and educational for you, please consider liking and subscribing. Thanks for watching, and happy new year!
+If you haven't watched Lesson 1 yet, do that now!
+Java For Beginners (Lesson 1): https://www.youtube.com/watch?v=XKF-7HFtN1U
+------------------------------------------------------------------------------------------------------------------------------------------------
+MY WEBSITE: https://cutt.ly/codingwithshawnofficial
+Please like & Subscribe for more content: https://www.youtube.com/channel/UCz6Z8rXMgHNh9OYee-wlTyQ?sub_confirmation=1
+------------------------------------------------------------------------------------------------------------------------------------------------
+Data Science and Machine Learning:
+https://www.youtube.com/playlist?list=PLI4REsOcDOjJoWgu2TTD1FX7y7PWISg5d
+Installation Tutorials:
+https://www.youtube.com/playlist?list=PLI4REsOcDOjJZi3ra9Lf23HOfDYVTNYKx
+Special Editions:
+https://www.youtube.com/playlist?list=PLI4REsOcDOjICA5TOK3qfaxj1uKEjk5mH
+Coding With Shawn (All Videos):
+https://www.youtube.com/playlist?list=PLI4REsOcDOjKpItFYqFahVHVoN61NHEeA
+Python For Beginners:
+https://www.youtube.com/playlist?list=PLI4REsOcDOjLqfXk8Qc1-cW4KVjtuVqeN
+------------------------------------------------------------------------------------------------------------------------------------------------
+Java For Beginners (Lesson 1): https://www.youtube.com/watch?v=XKF-7HFtN1U
+Python For Beginners (Lesson 1): https://www.youtube.com/watch?v=FCWS-iTmWMo
+Python For Beginners (Lesson 2): https://www.youtube.com/watch?v=4MJraLV3-2g
+Python For Beginners (Lesson 3): https://www.youtube.com/watch?v=3t55ntE7NkY
+Why Should You Learn Python?: https://www.youtube.com/watch?v=H2Ebou4iMGo
+How To Install Python: https://www.youtube.com/watch?v=wYZNWm8bjbA
+How To Install Jupyter Notebook: https://www.youtube.com/watch?v=Vp1RLUu-g44
+How To Install NumPy, PANDAS, and Matplotlib
+
+Sections:
+0:00 Introduction
+1:27 Installing Java
+7:38 Our First Program
+10:28 Syntax Explanation

@@ -1,0 +1,36 @@
+There are no files associated with this video.
+Video link: https://www.youtube.com/watch?v=XKF-7HFtN1U
+Description: 
+Welcome to the new Java for Beginners Series on the Coding With Shawn channel! In this series, we will nail all Java fundamentals and get into some more advanced concepts. You will do many projects and have lots of fun in the process. In this lesson, I'll intro Java and give you some basic ideas. I can't wait to help you throughout your Java journey, and thanks for watching!
+Next Lesson: Installing Java and Intro to Syntax
+------------------------------------------------------------------------------------------------------------------------------------------------
+MY WEBSITE: https://cutt.ly/codingwithshawnofficial
+Please like & Subscribe for more content: https://www.youtube.com/channel/UCz6Z8rXMgHNh9OYee-wlTyQ?sub_confirmation=1
+------------------------------------------------------------------------------------------------------------------------------------------------
+Data Science and Machine Learning:
+https://www.youtube.com/playlist?list=PLI4REsOcDOjJoWgu2TTD1FX7y7PWISg5d
+Installation Tutorials:
+https://www.youtube.com/playlist?list=PLI4REsOcDOjJZi3ra9Lf23HOfDYVTNYKx
+Special Editions:
+https://www.youtube.com/playlist?list=PLI4REsOcDOjICA5TOK3qfaxj1uKEjk5mH
+Coding With Shawn (All Videos):
+https://www.youtube.com/playlist?list=PLI4REsOcDOjKpItFYqFahVHVoN61NHEeA
+Python For Beginners:
+https://www.youtube.com/playlist?list=PLI4REsOcDOjLqfXk8Qc1-cW4KVjtuVqeN
+------------------------------------------------------------------------------------------------------------------------------------------------
+Python For Beginners (Lesson 1): https://www.youtube.com/watch?v=FCWS-iTmWMo
+Python For Beginners (Lesson 2): https://www.youtube.com/watch?v=4MJraLV3-2g
+Python For Beginners (Lesson 3): https://www.youtube.com/watch?v=3t55ntE7NkY
+Why Should You Learn Python?: https://www.youtube.com/watch?v=H2Ebou4iMGo
+How To Install Python: https://www.youtube.com/watch?v=wYZNWm8bjbA
+How To Install Jupyter Notebook: https://www.youtube.com/watch?v=Vp1RLUu-g44
+How To Install NumPy, PANDAS, and Matplotlib
+
+Timestamps:
+0:00 Introduction
+1:05 Objectives
+1:38 Java's History
+4:05 Why "Java"?
+5:50 Advantages of Java
+9:40 When Will You Be Job Ready?
+10:12 Summary
